@@ -48,4 +48,4 @@ I am a software developer passionate about engineering fast, fluid, and modern W
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-imaddin2021%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaddin2021@outlook.com)
+[![Email](https://img.shields.io/badge/Email-tokotiko472@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tokotiko472@gmail.com)
