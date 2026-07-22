@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:512BD4&height=180&section=header&text=JIRO%20|%20C%23%20%26%20WPF%20Dev&fontSize=38&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0078D6,512BD4&height=180&section=header&text=JIRO%20|%20C%23%20and%20WPF%20Dev&fontSize=38&fontColor=ffffff&animation=fadeIn)
 
 ⚡ **Desktop Application Developer | C# & .NET WPF Specialist**
 
