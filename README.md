@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0078D6,512BD4&height=180&section=header&text=JIRO%20|%20C%23%20and%20WPF%20Dev&fontSize=38&fontColor=ffffff&animation=fadeIn)
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0078D6&center=true&vCenter=true&width=800&height=120&lines=Hi%2C+I'm+JIRO!+%F0%9F%91%8B;C%23+%26+.NET+WPF+Specialist;Desktop+Application+Developer" alt="Typing SVG" />
 </div>
