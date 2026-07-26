@@ -44,8 +44,3 @@ I am a software developer passionate about engineering fast, fluid, and modern W
 
 [![View on GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Project-Tons/WallpaperTONS-App)
 
----
-
-### 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-imaddin2021%40outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaddin2021@outlook.com)
