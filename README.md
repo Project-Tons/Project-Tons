@@ -61,13 +61,10 @@
 
 </div>
 
-<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" width="32" height="32" align="absmiddle"> Contribution Snake</h2>
+<h2 align="center"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="32" height="32" align="absmiddle"> Code Vibes</h2>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Project-Tons/Project-Tons/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Project-Tons/Project-Tons/output/snake.svg" alt="contribution snake">
-</picture>
+<img src="./assets/code.svg" width="700" alt="animated C# code window">
 </div>
 
 <div align="center">
