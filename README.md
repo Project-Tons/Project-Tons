@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Project-Tons&label=Profile+Views&color=512BD4&style=for-the-badge" alt="views">
+<img src="https://hits.sh/github.com/Project-Tons/Project-Tons.svg?style=for-the-badge&label=Profile%20Views&color=512BD4&labelColor=555555" alt="views">
 <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows">
 <img src="https://img.shields.io/badge/Open_Source-%E2%9D%A4-ff6ec7?style=for-the-badge" alt="open source">
 
