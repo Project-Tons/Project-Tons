@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="268" viewBox="0 0 1000 268" role="img" aria-label="Tech stack">
+<style>text{font-family:'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif}.mono{font-family:'Cascadia Code','Cascadia Mono',Consolas,'SF Mono',Menlo,monospace}</style>
+<rect width="1000" height="268" rx="18" fill="#0d1117"/><rect x=".5" y=".5" width="999" height="267" rx="18" fill="none" stroke="#30363d"/>
+<text class="mono" x="40" y="49" font-size="13" letter-spacing="2" fill="#6e7b8c">LANGUAGES</text>
+<rect x="230" y="28" width="47" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="253.5" y="50.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">C#</text>
+<rect x="289" y="28" width="65" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="321.5" y="50.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">XAML</text>
+<rect x="366" y="28" width="56" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="394.0" y="50.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">SQL</text>
+<path d="M40 77H960" stroke="#21262d"/>
+<text class="mono" x="40" y="107" font-size="13" letter-spacing="2" fill="#6e7b8c">FRAMEWORKS</text>
+<rect x="230" y="86" width="65" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="262.5" y="108.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">.NET</text>
+<rect x="307" y="86" width="56" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="335.0" y="108.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">WPF</text>
+<rect x="375" y="86" width="93" height="34" rx="17.0" fill="#161b22" stroke="#3a4350" stroke-dasharray="4 3"/><text x="421.5" y="108.6" text-anchor="middle" font-size="16" fill="#8b949e" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">WinUI 3</text>
+<path d="M40 135H960" stroke="#21262d"/>
+<text class="mono" x="40" y="165" font-size="13" letter-spacing="2" fill="#6e7b8c">PRACTICES</text>
+<rect x="230" y="144" width="65" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="262.5" y="166.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">MVVM</text>
+<rect x="307" y="144" width="121" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="367.5" y="166.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">Clean Code</text>
+<rect x="440" y="144" width="149" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="514.5" y="166.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">Async / await</text>
+<rect x="601" y="144" width="195" height="34" rx="17.0" fill="#161b22" stroke="#3a4350" stroke-dasharray="4 3"/><text x="698.5" y="166.6" text-anchor="middle" font-size="16" fill="#8b949e" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">Performance tuning</text>
+<path d="M40 193H960" stroke="#21262d"/>
+<text class="mono" x="40" y="223" font-size="13" letter-spacing="2" fill="#6e7b8c">TOOLING</text>
+<rect x="230" y="202" width="149" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="304.5" y="224.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">Visual Studio</text>
+<rect x="391" y="202" width="56" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="419.0" y="224.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">Git</text>
+<rect x="459" y="202" width="84" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="501.0" y="224.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">GitHub</text>
+<rect x="555" y="202" width="84" height="34" rx="17.0" fill="#161b22" stroke="#3a4350"/><text x="597.0" y="224.6" text-anchor="middle" font-size="16" fill="#e6edf3" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">SQLite</text>
+<rect x="850" y="236" width="18" height="12" rx="6" fill="none" stroke="#6e7b8c" stroke-dasharray="3 2"/>
+<text class="mono" x="876" y="246" font-size="12" fill="#6e7b8c">learning</text></svg>

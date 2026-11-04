@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="WallpaperTONS">
+<defs><linearGradient id="ga" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<filter id="ba" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="45"/></filter>
+<clipPath id="ca"><rect width="600" height="270" rx="18"/></clipPath></defs>
+<style>text{font-family:'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif}.mono{font-family:'Cascadia Code','Cascadia Mono',Consolas,'SF Mono',Menlo,monospace}.glow{animation:glow 6s ease-in-out infinite alternate}@keyframes glow{from{opacity:.22}to{opacity:.45}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect width="600" height="270" rx="18" fill="#0d1117"/>
+<g clip-path="url(#ca)"><circle class="glow" cx="560" cy="20" r="110" fill="url(#ga)" filter="url(#ba)"/>
+<rect width="600" height="4" fill="url(#ga)"/></g>
+<rect x=".5" y=".5" width="599" height="269" rx="18" fill="none" stroke="#30363d"/>
+<rect x="32" y="30" width="237" height="28" rx="14" fill="#38bdf8" fill-opacity=".14" stroke="#38bdf8" stroke-opacity=".55"/>
+<text class="mono" x="150.5" y="49" text-anchor="middle" font-size="13" letter-spacing="1.4" fill="#38bdf8">FLAGSHIP · OPEN SOURCE</text>
+<path d="M548 58 L568 38 M552 38 H568 V54" fill="none" stroke="#8b949e" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="32" y="116" font-size="40" font-weight="700" fill="#f0f6fc" letter-spacing="-.5">WallpaperTONS</text>
+<text x="32" y="150" font-size="18" fill="#9aa7b8">Lightweight live wallpapers and taskbar</text>
+<text x="32" y="176" font-size="18" fill="#9aa7b8">transparency for Windows 10 / 11.</text>
+<rect x="32" y="192" width="45" height="32" rx="16.0" fill="#161b22" stroke="#3a4350"/><text x="54.5" y="213.25" text-anchor="middle" font-size="15" fill="#c9d1d9" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">C#</text>
+<rect x="87" y="192" width="63" height="32" rx="16.0" fill="#161b22" stroke="#3a4350"/><text x="118.5" y="213.25" text-anchor="middle" font-size="15" fill="#c9d1d9" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">.NET</text>
+<rect x="160" y="192" width="54" height="32" rx="16.0" fill="#161b22" stroke="#3a4350"/><text x="187.0" y="213.25" text-anchor="middle" font-size="15" fill="#c9d1d9" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">WPF</text>
+<rect x="224" y="192" width="141" height="32" rx="16.0" fill="#161b22" stroke="#3a4350"/><text x="294.5" y="213.25" text-anchor="middle" font-size="15" fill="#c9d1d9" font-family="'Segoe UI Variable Display','Segoe UI',system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif">Windows 10/11</text>
+<text class="mono" x="32" y="252" font-size="13" fill="#6e7b8c">github.com/Project-Tons/WallpaperTONS-App</text></svg>
